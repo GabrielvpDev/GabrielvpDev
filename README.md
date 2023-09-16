@@ -5,8 +5,8 @@
 
 <!-- Social medias -->
 <div align="center">
-    <a href="mailto:caique.engsoft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/caiqueengsoftware/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:gabrielvp.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabriel-veloso-67bb74267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -32,6 +32,7 @@
     <a href="#" target="_blank" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" /> </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#" target="_blank" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /> </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#" target="_blank" title="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="60" height="60" /> </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>

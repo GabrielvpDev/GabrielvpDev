@@ -32,7 +32,7 @@
     <a href="#" target="_blank" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" /> </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#" target="_blank" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /> </a>
-    <a href="#" target="_blank" title="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-sharp/c-sharp-original.svg" alt="c#" width="60" height="60" /> </a>
+    <a href="#" target="_blank" title="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="60" height="60" /> </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
